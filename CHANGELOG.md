@@ -1,3 +1,15 @@
+# v0.0.3 (Fri Feb 06 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Replace template structure with complete HTML document ([@DShacker01](https://github.com/DShacker01))
+
+#### Authors: 1
+
+- [@DShacker01](https://github.com/DShacker01)
+
+---
+
 # v0.0.2 (Fri Feb 06 2026)
 
 #### ⚠️ Pushed to `main`
