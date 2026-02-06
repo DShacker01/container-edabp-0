@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "DShacker01",
+  "repo": "container-edabp-0",
+  "name": "DShacker01",
+  "email": "Diegoschamper@gmail.com",
+}
