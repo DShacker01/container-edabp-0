@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Feb 06 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Change header text from 'Header' to 'Test' ([@DShacker01](https://github.com/DShacker01))
+
+#### Authors: 1
+
+- [@DShacker01](https://github.com/DShacker01)
+
+---
+
 # v0.0.1 (Fri Feb 06 2026)
 
 :tada: This release contains work from a new contributor! :tada:
