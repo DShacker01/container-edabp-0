@@ -1,3 +1,15 @@
+# v0.0.6 (Sat Feb 07 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Refactor route handling for home page ([@DShacker01](https://github.com/DShacker01))
+
+#### Authors: 1
+
+- [@DShacker01](https://github.com/DShacker01)
+
+---
+
 # v0.0.5 (Sat Feb 07 2026)
 
 #### ⚠️ Pushed to `main`
