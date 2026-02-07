@@ -7,11 +7,6 @@ from logger import log
 app = Flask(__name__)
 app.teardown_appcontext(close_db)
 
-
-@app.route("/")
-def index():
-    return render_template("index.html")
-
 @app.get("/")
 def home():
     return render_template("index.html")
