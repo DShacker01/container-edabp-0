@@ -1,3 +1,15 @@
+# v0.0.5 (Sat Feb 07 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Add home and who_am_i routes to app ([@DShacker01](https://github.com/DShacker01))
+
+#### Authors: 1
+
+- [@DShacker01](https://github.com/DShacker01)
+
+---
+
 # v0.0.4 (Sat Feb 07 2026)
 
 #### ⚠️ Pushed to `main`
