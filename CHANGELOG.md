@@ -1,3 +1,16 @@
+# v0.0.4 (Sat Feb 07 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Create who_am_i.html with custom styling and content ([@DShacker01](https://github.com/DShacker01))
+- Change title and enhance page styling ([@DShacker01](https://github.com/DShacker01))
+
+#### Authors: 1
+
+- [@DShacker01](https://github.com/DShacker01)
+
+---
+
 # v0.0.3 (Fri Feb 06 2026)
 
 #### ⚠️ Pushed to `main`
